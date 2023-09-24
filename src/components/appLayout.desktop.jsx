@@ -62,7 +62,7 @@ export default function AppLayout({ children, activePage }) {
         </ul>
       </div>
       <div className="h-8 w-full text-right pr-3 pt-1 font-semibold">
-        Roundtable
+        Black
       </div>
       <div className="h-[calc(100vh-2rem)] w-full flex flex-row">
         <div className="w-12 h-full min-w-[3%] flex flex-col justify-center items-center pb-12">

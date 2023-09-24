@@ -34,7 +34,7 @@ export default function main() {
         <Link
           className="btn btn-ghost normal-case font-bold text-base md:text-xl"
           to="/groupchat">
-          <span className="md:mb-1 mb-0.5">Roundtable</span>
+          <span className="md:mb-1 mb-0.5">Black</span>
         </Link>
         <div>
           {/*Themes Dropdown*/}
@@ -60,14 +60,6 @@ export default function main() {
               })}
             </ul>
           </div>
-
-          {/*Github Link*/}
-          <a
-            className="btn btn-ghost btn-circle normal-case text-base"
-            target="_blank"
-            href="https://github.com/shivamchhapola/roundtable-chat">
-            <SiGithub className="text-xl md:text-2xl" />
-          </a>
         </div>
       </div>
 

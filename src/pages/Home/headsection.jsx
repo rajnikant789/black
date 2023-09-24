@@ -8,13 +8,13 @@ export default function Section1() {
           <div className="max-w-xl text-primary-content">
             <div className="font-bold text-3xl md:text-4xl">
               Welcome to <br />
-              <span className="text-4xl md:text-6xl">Roundtable...</span>
+              <span className="text-4xl md:text-6xl">Black...</span>
             </div>
             <div className="py-6 text-base md:text-lg">
-              ...where conversations come to life. Roundtable is designed to
+              ...where conversations come to life. Black is designed to
               connect you with like-minded individuals who share your passions,
               interests, and beliefs. Whether you're looking to discuss the
-              latest news or engage in lively debates, Roundtable is the perfect
+              latest news or engage in lively debates, Black is the perfect
               platform to explore new ideas and connect with others. Join the
               conversation today and discover the power of community.
             </div>

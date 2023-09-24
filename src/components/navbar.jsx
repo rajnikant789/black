@@ -42,7 +42,7 @@ export default function Navbar() {
       <Link
         className="btn btn-ghost normal-case font-bold text-base md:text-xl"
         to="/">
-        <span className="md:mb-1 mb-0.5">Roundtable</span>
+        <span className="md:mb-1 mb-0.5">Black</span>
       </Link>
 
       {/*Desktop Menu*/}
@@ -56,12 +56,6 @@ export default function Navbar() {
             </li>
             <li>
               <a>Groups</a>
-            </li>
-            <li>
-              <a>About us</a>
-            </li>
-            <li>
-              <a>Contact us</a>
             </li>
           </ul>
         </div>
@@ -89,14 +83,6 @@ export default function Navbar() {
             })}
           </ul>
         </div>
-
-        {/*Github Link*/}
-        <a
-          className="btn btn-ghost btn-circle normal-case text-base"
-          target="_blank"
-          href="https://github.com/shivamchhapola/roundtable-chat">
-          <SiGithub className="text-xl md:text-2xl" />
-        </a>
 
         {/*Hamburger Menu Icon*/}
         <div className="flex-none md:hidden">
